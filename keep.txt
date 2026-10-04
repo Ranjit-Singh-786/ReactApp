@@ -1,0 +1,13 @@
+command to setup react app infrastructure.
+"npx create-react-app reacteapp"
+
+command to start development server:
+npm start 
+
+"node_modules" runtime envirment to run this application
+
+"public/index.html" main home page file, that will contain all the component.
+
+"./src/*"   has all the source code of your project
+
+"npm run build" to create build of frontend 
