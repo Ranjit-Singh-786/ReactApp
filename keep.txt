@@ -11,3 +11,8 @@ npm start
 "./src/*"   has all the source code of your project
 
 "npm run build" to create build of frontend 
+
+
+==== RUN BUILD ===
+"npm run build"          => TO BUILD THE PROJECT 
+npx serve -s build => production build run karta hai
